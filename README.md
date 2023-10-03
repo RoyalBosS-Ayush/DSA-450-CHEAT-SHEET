@@ -3,7 +3,7 @@
 ---
 
 | Question                                                                                        | Code                                                                             |
-| ----------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| ----------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
 | Reverse an Array/String                                                                         | [Code](https://github.com/RoyalBosS-Ayush/DSA-450-CHEAT-SHEET/blob/main/001.cpp) |
 | Find the maximum and minimum element in an array                                                | [Code](https://github.com/RoyalBosS-Ayush/DSA-450-CHEAT-SHEET/blob/main/002.cpp) |
 | Find the “Kth” max and min element of an array                                                  | [Code](https://github.com/RoyalBosS-Ayush/DSA-450-CHEAT-SHEET/blob/main/003.cpp) |
@@ -40,5 +40,24 @@
 | Minimum no. of operations required to make an array palindrome                                  | [Code](https://github.com/RoyalBosS-Ayush/DSA-450-CHEAT-SHEET/blob/main/034.cpp) |
 | Median of 2 sorted arrays of equal size                                                         | [Code](https://github.com/RoyalBosS-Ayush/DSA-450-CHEAT-SHEET/blob/main/035.cpp) |
 | Median of 2 sorted arrays of different size                                                     | [Code](https://github.com/RoyalBosS-Ayush/DSA-450-CHEAT-SHEET/blob/main/036.cpp) |
+
+---
+
+# Matrix
+
+---
+
+| Question                                                           | Code                                                                             |
+| ------------------------------------------------------------------ | -------------------------------------------------------------------------------- |
+| Spiral traversal on a Matrix                                       | [Code](https://github.com/RoyalBosS-Ayush/DSA-450-CHEAT-SHEET/blob/main/037.cpp) |
+| Search an element in a Matrix                                      | [Code](https://github.com/RoyalBosS-Ayush/DSA-450-CHEAT-SHEET/blob/main/038.cpp) |
+| Find median in a row wise sorted matrix                            | [Code](https://github.com/RoyalBosS-Ayush/DSA-450-CHEAT-SHEET/blob/main/039.cpp) |
+| Find row with maximum no. of 1’s                                   | [Code](https://github.com/RoyalBosS-Ayush/DSA-450-CHEAT-SHEET/blob/main/040.cpp) |
+| Print elements in sorted order using row-column wise sorted matrix | [Code](https://github.com/RoyalBosS-Ayush/DSA-450-CHEAT-SHEET/blob/main/041.cpp) |
+| Maximum size rectangle                                             | [Code](https://github.com/RoyalBosS-Ayush/DSA-450-CHEAT-SHEET/blob/main/042.cpp) |
+| Find a specific pair in matrix                                     | [Code](https://github.com/RoyalBosS-Ayush/DSA-450-CHEAT-SHEET/blob/main/043.cpp) |
+| Rotate matrix by 90 degrees                                        | [Code](https://github.com/RoyalBosS-Ayush/DSA-450-CHEAT-SHEET/blob/main/044.cpp) |
+| Kth smallest element in a row-column wise sorted matrix            | [Code](https://github.com/RoyalBosS-Ayush/DSA-450-CHEAT-SHEET/blob/main/045.cpp) |
+| Common elements in all rows of a given matrix                      | [Code](https://github.com/RoyalBosS-Ayush/DSA-450-CHEAT-SHEET/blob/main/046.cpp) |
 
 ---
